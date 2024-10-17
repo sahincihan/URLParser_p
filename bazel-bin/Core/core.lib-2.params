@@ -1,5 +1,0 @@
-/nologo
-/OUT:bazel-out/x64_windows-fastbuild/bin/Core/core.lib
-/MACHINE:X64
-bazel-out/x64_windows-fastbuild/bin/Core/_objs/core/url.obj
-/ignore:4221
